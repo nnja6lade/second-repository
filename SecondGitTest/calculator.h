@@ -5,5 +5,9 @@ class calculator
     {
         return left + right;
     }
+public: int SUB(int left, int right)
+{
+    return left - right;
+}
 };
 
